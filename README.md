@@ -12,22 +12,22 @@ This is a simple drawing application implemented in Python using the `tkinter` l
 ## Installation
 
 1. Clone this repository to your local machine:
-
-Navigate to the repository directory:
-
-````bash
-cd drawing-app
-
-Install the required dependencies (make sure you have Python and pip installed):
+  Navigate to the repository directory:
 
 ```bash
+cd drawing-app
+```
+
+Install the required dependencies (make sure you have Python and pip installed):
+```bash
 pip install pillow
+```
 
 Usage
 Run the drawing app by executing the Python script:
-
 ```bash
 python drawing_app.py
+```
 
 The GUI of the app will open, allowing you to interact with the canvas and drawing tools.
 
@@ -45,7 +45,3 @@ Contributions are welcome! If you have ideas for improvements or new features, f
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-## Acknowledgements
-This project was inspired by the desire to create a simple drawing app for educational purposes.
-Special thanks to the Python community for the powerful libraries that make this kind of project possible.
-````
